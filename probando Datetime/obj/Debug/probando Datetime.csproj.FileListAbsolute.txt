@@ -1,0 +1,10 @@
+C:\Users\dcrio\source\repos\probando Datetime\probando Datetime\bin\Debug\probando Datetime.exe.config
+C:\Users\dcrio\source\repos\probando Datetime\probando Datetime\bin\Debug\probando Datetime.exe
+C:\Users\dcrio\source\repos\probando Datetime\probando Datetime\bin\Debug\probando Datetime.pdb
+C:\Users\dcrio\source\repos\probando Datetime\probando Datetime\obj\Debug\probando Datetime.csproj.AssemblyReference.cache
+C:\Users\dcrio\source\repos\probando Datetime\probando Datetime\obj\Debug\probando_Datetime.Form1.resources
+C:\Users\dcrio\source\repos\probando Datetime\probando Datetime\obj\Debug\probando_Datetime.Properties.Resources.resources
+C:\Users\dcrio\source\repos\probando Datetime\probando Datetime\obj\Debug\probando Datetime.csproj.GenerateResource.cache
+C:\Users\dcrio\source\repos\probando Datetime\probando Datetime\obj\Debug\probando Datetime.csproj.CoreCompileInputs.cache
+C:\Users\dcrio\source\repos\probando Datetime\probando Datetime\obj\Debug\probando Datetime.exe
+C:\Users\dcrio\source\repos\probando Datetime\probando Datetime\obj\Debug\probando Datetime.pdb

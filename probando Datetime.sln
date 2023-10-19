@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "probando Datetime", "probando Datetime\probando Datetime.csproj", "{719A6185-CD0A-4C5F-914F-728FE7706269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{719A6185-CD0A-4C5F-914F-728FE7706269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719A6185-CD0A-4C5F-914F-728FE7706269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719A6185-CD0A-4C5F-914F-728FE7706269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719A6185-CD0A-4C5F-914F-728FE7706269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F13A6891-287E-4AC0-AF67-E232C7C7522D}
+	EndGlobalSection
+EndGlobal
